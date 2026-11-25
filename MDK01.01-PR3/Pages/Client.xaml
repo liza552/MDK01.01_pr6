@@ -1,0 +1,8 @@
+﻿<Page x:Class="MDK01._01_PR3.Pages.Client"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Client" Background="White">
+    <Grid>
+        <TextBlock x:Name="txtWelcome" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Page>
